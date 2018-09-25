@@ -1,0 +1,4 @@
+// Spring Roo UNKNOWN VERSION log opened at 2018-09-12 17:49:45
+project setup --topLevelPackage com.rabbitmq --projectName "RabbitMQ" --java 8 --packaging JAR
+// Spring Roo UNKNOWN VERSION log closed at 2018-09-12 17:49:46
+// Spring Roo UNKNOWN VERSION log opened at 2018-09-12 17:49:49
